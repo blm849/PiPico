@@ -17,3 +17,5 @@ I ran these programs using Thonny 3.3.1 on a Raspberry Pi 400.
 - **oledtest.py** - a program to write to an OLED display of 128x32 
 - **oledtest2.py** - more advanced text
 
+- Working on some new weather code to add.
+
