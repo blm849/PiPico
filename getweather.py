@@ -12,7 +12,6 @@ else:
     sys.exit()
 
 BASE_URL = "https://api.openweathermap.org/data/3.0/onecall"
-# params = "lat=43.70011&lon=-79.4163&appid=5f481f43b38bc213363c1589e9140487"
 params = "lat=43.70011&lon=-79.4163&appid=" + str(API_KEY)
 
 # https://api.openweathermap.org/data/3.0/onecall?lat=43.70011&lon=-79.4163&appid=5f481f43b38bc213363c1589e9140487
